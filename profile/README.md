@@ -32,15 +32,24 @@
 
 #### 01-01-03 **ITTPTC**: https://github.com/OS-HUBU/01-01-03-ITTPTC
 
-> 开发者在项目中的重要性评价
+> 开发者在项目中的重要性评价指标
 
 #### 01-01-04 AbilityUser: https://github.com/OS-HUBU/01-01-04-AbilityUser
 
-> 开发者价值评估模型
+> 开发者价值评估模型 
 
 #### 01-01-05 JYD: https://github.com/OS-HUBU/01-01-05-JYD
 
-> 敬业度
+> 敬业度指标
+
+#### 01-01-06 LearningAbility: https://github.com/OS-HUBU/01-01-06-LearningAbility
+>开发者学习能力评估指标
+
+#### 01-01-07 ProgrammingAbility https://github.com/OS-HUBU/01-01-07-ProgrammingAbility
+>项目管理能力指标
+
+#### 01-01-08 TeamCollaborationAbility https://github.com/OS-HUBU/01-01-08-TeamCollaborationAbility
+>开发者团队协作能力指标
 
 ### 🌈 <span id="0102">01-02-可视化项目</span>
 
