@@ -34,7 +34,6 @@
 
 > 开发者在项目中的重要性评价
 
-
 #### 01-01-04 AbilityUser: https://github.com/OS-HUBU/01-01-04-AbilityUser
 
 > 开发者价值评估模型
@@ -46,12 +45,16 @@
 ### 🌈 <span id="0102">01-02-可视化项目</span>
 
 #### 01-02-01 **DevValSys**: https://github.com/OS-HUBU/01-02-01-DevValSys
-
 > 开发者价值评估体系
 
 #### 01-02-02 **GitHubLocationView**: https://github.com/OS-HUBU/01-02-02-GitHubLocationView
+> GitHub用户全球时空分布可视化及预测
 
-> 地理信息位置可视化
+#### 01-02-03 **DeveloperEmotions**: https://github.com/OS-HUBU/01-02-03-DeveloperEmotions
+> 项目开发者情感分析可视化大屏
+
+#### 01-02-04 **GitHubCollaborativeNetwork**: https://github.com/OS-HUBU/01-02-04-GitHubCollaborativeNetwork
+> Github协作网络可视化
 
 ## 👩‍💻 <span id="02">02-多智能体时空演化研究框架</span>
 
