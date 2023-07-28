@@ -46,7 +46,7 @@
 >开发者学习能力评估指标
 
 #### 01-01-07 ProgrammingAbility https://github.com/OS-HUBU/01-01-07-ProgrammingAbility
->项目管理能力指标
+>编程能力指标
 
 #### 01-01-08 TeamCollaborationAbility https://github.com/OS-HUBU/01-01-08-TeamCollaborationAbility
 >开发者团队协作能力指标
