@@ -26,43 +26,43 @@
 ## 🙋‍♀️ <span id="02">02-开源生态类项目</span>
 
 
-### 02-01 **AbilityUser**: : https://github.com/OS-HUBU/AbilityUser
+### 02-01 **AbilityUser**: https://github.com/OS-HUBU/AbilityUser
 
 > 开发者价值评估模型 
 >
->>### 02-01-01 **ProjectManagementCapability**: https://github.com/OS-HUBU/ProjectManagementCapability
+>>#### 02-01-01 **ProjectManagementCapability**: https://github.com/OS-HUBU/ProjectManagementCapability
 >>> 项目管理能力指标
->>### 02-01-02  **JYD**: https://github.com/OS-HUBU/JYD
+>>#### 02-01-02  **JYD**: https://github.com/OS-HUBU/JYD
 >>> 敬业度指标
->>### 02-01-03 LearningAbility: https://github.com/OS-HUBU/LearningAbility
+>>#### 02-01-03 LearningAbility: https://github.com/OS-HUBU/LearningAbility
 >>>开发者学习能力评估指标
->>### 02-01-04 ProgrammingAbility https://github.com/OS-HUBU/ProgrammingAbility
+>>#### 02-01-04 ProgrammingAbility https://github.com/OS-HUBU/ProgrammingAbility
 >>>编程能力指标
->>### 02-01-05 TeamCollaborationAbility https://github.com/OS-HUBU/TeamCollaborationAbility
+>>#### 02-01-05 TeamCollaborationAbility https://github.com/OS-HUBU/TeamCollaborationAbility
 >>>开发者团队协作能力指标
 
-#### 02-02 OpenCommunityDegree: https://github.com/OS-HUBU/OpenCommunityDegree
+### 02-02 OpenCommunityDegree: https://github.com/OS-HUBU/OpenCommunityDegree
 
 > 开源项目社区化程度指标
 
 
-#### 02-03 **ITTPTC**: https://github.com/OS-HUBU/01-01-03-ITTPTC
+### 02-03 **ITTPTC**: https://github.com/OS-HUBU/ITTPTC
 
 > 开发者在项目中的重要性评价指标
 
 
 ## 🌈 <span id="03">03-开源可视化类项目</span>
 
-#### 03-01**GitHubLocationView**: https://github.com/OS-HUBU/GitHubLocationView
+### 03-01**GitHubLocationView**: https://github.com/OS-HUBU/GitHubLocationView
 > GitHub用户全球时空分布可视化及预测
 
-#### 03-02 **DeveloperEmotions**: https://github.com/OS-HUBU/DeveloperEmotions
+### 03-02 **DeveloperEmotions**: https://github.com/OS-HUBU/DeveloperEmotions
 > 项目开发者情感分析可视化大屏
 
-#### 03-03 **GitHubCollaborativeNetwork**: https://github.com/OS-HUBU/GitHubCollaborativeNetwork
+### 03-03 **GitHubCollaborativeNetwork**: https://github.com/OS-HUBU/GitHubCollaborativeNetwork
 > Github协作网络可视化
 
-#### 03-04 **DevValSys**: https://github.com/OS-HUBU/DevValSys
+### 03-04 **DevValSys**: https://github.com/OS-HUBU/DevValSys
 > 开发者价值评估体系
 
 ## 👩‍💻 <span id="04">04-开源AI类项目</span>
