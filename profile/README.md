@@ -4,77 +4,71 @@
 >
 > 为方便查阅，特设立以下类别命名规则：
 >
->**👋 01-开源研究 ([**去看看**](#01))**
-> 
->>__🙋‍♀️ 01-01-指标项目 ([**去看看**](#0101))__
->>
->>__🌈 01-02-可视化项目 ([**去看看**](#0102))__
->>
->>__:clipboard: 01-03-开源课程相关资料 ([**去看看**](#0103))__
->>
->**👩‍💻 02-多智能体时空演化研究框架 ([**去看看**](#02))**
-> 
->**🍿 03-数字孪生**
-> 
->**🧙 04-科研论文**
-> 
+> **👋 01-开源数据类项目 ([**去看看**](#01))**
+>
+> **🙋‍♀️ 02-开源生态类项目 ([**去看看**](#02))**
+>
+> **🌈 03-开源可视化类项目 ([**去看看**](#03))**
+>
+> **👩‍💻 04-开源AI类项目 ([**去看看**](#04))**
+>
+> **👋 05-学术研究类项目 ([**去看看**](#05))**
+>
+> **:clipboard: 06-开源课程 ([**去看看**](#06))**
+
+
 
 # 以下是项目目录及地址
 
-## 👋 <span id="01">01-开源研究</span>
-### 🙋‍♀️ <span id="0101">01-01-指标项目</span>
+## 👋 <span id="01">01-开源数据类项目</span>
 
-#### 01-01-01 OpenCommunityDegree: https://github.com/OS-HUBU/01-01-01-OpenCommunityDegree
+
+## 🙋‍♀️ <span id="02">02-开源生态类项目</span>
+
+
+### 02-01 **AbilityUser**: : https://github.com/OS-HUBU/AbilityUser
+
+> 开发者价值评估模型 
+>
+>>### 02-01-01 **ProjectManagementCapability**: https://github.com/OS-HUBU/ProjectManagementCapability
+>>> 项目管理能力指标
+>>### 02-01-02  **JYD**: https://github.com/OS-HUBU/JYD
+>>> 敬业度指标
+>>### 02-01-03 LearningAbility: https://github.com/OS-HUBU/LearningAbility
+>>>开发者学习能力评估指标
+>>### 02-01-04 ProgrammingAbility https://github.com/OS-HUBU/ProgrammingAbility
+>>>编程能力指标
+>>### 02-01-05 TeamCollaborationAbility https://github.com/OS-HUBU/TeamCollaborationAbility
+>>>开发者团队协作能力指标
+
+#### 02-02 OpenCommunityDegree: https://github.com/OS-HUBU/OpenCommunityDegree
 
 > 开源项目社区化程度指标
 
-#### 01-01-02 ProjectManagementCapability: https://github.com/OS-HUBU/01-01-02-ProjectManagementCapability
 
-> 项目管理能力指标
-
-#### 01-01-03 **ITTPTC**: https://github.com/OS-HUBU/01-01-03-ITTPTC
+#### 02-03 **ITTPTC**: https://github.com/OS-HUBU/01-01-03-ITTPTC
 
 > 开发者在项目中的重要性评价指标
 
-#### 01-01-04 AbilityUser: https://github.com/OS-HUBU/01-01-04-AbilityUser
 
-> 开发者价值评估模型 
+## 🌈 <span id="03">03-开源可视化类项目</span>
 
-#### 01-01-05 JYD: https://github.com/OS-HUBU/01-01-05-JYD
-
-> 敬业度指标
-
-#### 01-01-06 LearningAbility: https://github.com/OS-HUBU/01-01-06-LearningAbility
->开发者学习能力评估指标
-
-#### 01-01-07 ProgrammingAbility https://github.com/OS-HUBU/01-01-07-ProgrammingAbility
->编程能力指标
-
-#### 01-01-08 TeamCollaborationAbility https://github.com/OS-HUBU/01-01-08-TeamCollaborationAbility
->开发者团队协作能力指标
-
-### 🌈 <span id="0102">01-02-可视化项目</span>
-
-#### 01-02-01 **DevValSys**: https://github.com/OS-HUBU/01-02-01-DevValSys
-> 开发者价值评估体系
-
-#### 01-02-02 **GitHubLocationView**: https://github.com/OS-HUBU/01-02-02-GitHubLocationView
+#### 03-01**GitHubLocationView**: https://github.com/OS-HUBU/GitHubLocationView
 > GitHub用户全球时空分布可视化及预测
 
-#### 01-02-03 **DeveloperEmotions**: https://github.com/OS-HUBU/01-02-03-DeveloperEmotions
+#### 03-02 **DeveloperEmotions**: https://github.com/OS-HUBU/DeveloperEmotions
 > 项目开发者情感分析可视化大屏
 
-#### 01-02-04 **GitHubCollaborativeNetwork**: https://github.com/OS-HUBU/01-02-04-GitHubCollaborativeNetwork
+#### 03-03 **GitHubCollaborativeNetwork**: https://github.com/OS-HUBU/GitHubCollaborativeNetwork
 > Github协作网络可视化
 
-### :clipboard: <span id="0103">01-03-开源课程相关资料</span>
+#### 03-04 **DevValSys**: https://github.com/OS-HUBU/DevValSys
+> 开发者价值评估体系
 
-## 👩‍💻 <span id="02">02-多智能体时空演化研究框架</span>
+## 👩‍💻 <span id="04">04-开源AI类项目</span>
 
-#### 02 **OpenAgent**: https://github.com/OS-HUBU/02-OpenAgent
+## 👋 <span id="05">05-学术研究类项目</span>
 
-> 多智能体时空演化研究框架
+## :clipboard: <span id="06">06-开源课程</span>
 
-## 🍿 03-数字孪生
 
-## 🧙 04-科研论文
