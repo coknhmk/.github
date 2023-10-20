@@ -32,7 +32,7 @@
 >
 >>#### 02-01-01 **ProjectManagementCapability**: https://github.com/OS-HUBU/ProjectManagementCapability
 >>> 项目管理能力指标
->>#### 02-01-02  **JYD**: https://github.com/OS-HUBU/JYD
+>>#### 02-01-02 **JYD**: https://github.com/OS-HUBU/JYD
 >>> 敬业度指标
 >>#### 02-01-03 LearningAbility: https://github.com/OS-HUBU/LearningAbility
 >>>开发者学习能力评估指标
@@ -53,7 +53,7 @@
 
 ## 🌈 <span id="03">03-开源可视化类项目</span>
 
-### 03-01**GitHubLocationView**: https://github.com/OS-HUBU/GitHubLocationView
+### 03-01 **GitHubLocationView**: https://github.com/OS-HUBU/GitHubLocationView
 > GitHub用户全球时空分布可视化及预测
 
 ### 03-02 **DeveloperEmotions**: https://github.com/OS-HUBU/DeveloperEmotions
@@ -65,10 +65,10 @@
 ### 03-04 **DevValSys**: https://github.com/OS-HUBU/DevValSys
 > 开发者价值评估体系
 
-## 👩‍💻 <span id="04">04-开源AI类项目</span>
+## 👩‍💻 <span id="04"> 04-开源AI类项目</span>
 
-## 👋 <span id="05">05-学术研究类项目</span>
+## 👋 <span id="05"> 05-学术研究类项目</span>
 
-## :clipboard: <span id="06">06-开源课程</span>
+## :clipboard: <span id="06"> 06-开源课程</span>
 
 
